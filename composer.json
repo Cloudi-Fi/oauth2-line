@@ -1,5 +1,5 @@
 {
-  "name": "gn-office/oauth2-line",
+  "name": "cloudifi/oauth2-line",
   "description": "LINE OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
   "license": "MIT",
   "authors": [
